@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "659376232beb450fce5d15f8"
+  },
+  "name": "John"
+},
+{
+  "_id": {
+    "$oid": "659376232beb450fce5d15f9"
+  },
+  "username": "Doe"
+},
+{
+  "_id": {
+    "$oid": "659376232beb450fce5d15fa"
+  },
+  "password": "123"
+},
+{
+  "_id": {
+    "$oid": "659376232beb450fce5d15fb"
+  },
+  "email": "John@gmail.com"
+}]
